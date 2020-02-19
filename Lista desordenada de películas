@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Las diez mejores películas de todos los tiempos</title>
+     <style>
+      h1 {
+      color: #F0F8FF;  
+      text-align: center;}
+      h2 {
+        color: #FAEBD7;
+        text-align: center;
+        font-weight: 100;}
+      li {
+        color: #FFF8DC;
+      }
+      img {
+        margin: auto;
+        width: "100";
+        text-align: center;
+      }
+      </style>
 
+   </head>
+   <body>
+       <h1>Las diez mejores películas de todos los tiempos</h1>
+       <h2>(Según mi escasa perspectiva)</h2>
+       
+       <ul>
+        <li>2001: Una odisea en el espacio</li>
+        <img src="html/images/2001.jpg" alt="imagen no encontrada">
+        <li>Blade Runner</li>
+        <img src="html/images/BladeRunner.jpg" alt="imagen no encontrada">
+        <li>Novecento</li>
+        <img src="html/images/Novecc.jpg" alt="imagen no encontrada">
+        <li>Dersu Uzala</li> 
+        <img src="html/images/Dersu.jpg" alt="imagen no encontrada">
+        <li>El padrino II</li>
+        <img src="html/images/Elpadrino.jpg" alt="imagen no encontrada">
+        <li>El gatopardo</li>
+        <img src="html/images/gatopardo.jpg" alt="imagen no encontrada">
+        <li>Días de vino y rosas</li>
+        <img src="html/images/vinoyrosas.jpg" alt="imagen no encontrada">
+        <li>Desayuno con diamantes</li>
+        <img src="html/images/desayuno.jpg" alt="imagen no encontrada">
+        <li>Vértigo</li>
+        <img src="html/images/hitchcock.jpg" alt="imagen no encontrada">
+        <li>El tercer hombre</li>
+        <img src="html/images/3hombre.jpg" alt="imagen no encontrada">
+        <li>Metrópolis</li>
+        <img src="html/images/LangFritz.jpg" alt="imagen no encontrada">
+       </ul>
+       
+    </body>
+</html>
