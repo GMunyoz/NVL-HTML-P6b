@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Las diez mejores películas de todos los tiempos</title>
+     <style>
+      h1 {
+      color: #F0F8FF;  
+      text-align: center;}
+      h2 {
+        color: #FAEBD7;
+        text-align: center;
+        font-weight: 100;}
+      li {
+        color: #FFF8DC;
+      }
+      img {
+        margin: auto;
+        width: "100";
+        text-align: center;
+      }
+      </style>
+
+   </head>
+   <body>
+       <h1>Las 5 mejores del mundo mundial</h1>
+       <h2>(néctar supremo)</h2>
+       
+       <ul>
+        <li>2001: Una odisea en el espacio</li>
+        <img src="html/images/2001.jpg" alt="imagen no encontrada">
+        <li>Blade Runner</li>
+        <img src="html/images/BladeRunner.jpg" alt="imagen no encontrada">
+        <li>Novecento</li>
+        <img src="html/images/Novecc.jpg" alt="imagen no encontrada">
+        <li>El gatopardo</li>
+        <img src="html/images/gatopardo.jpg" alt="imagen no encontrada">
+        <li>Vértigo</li>
+        <img src="html/images/hitchcock.jpg" alt="imagen no encontrada">
+        </ul>
+       
+    </body>
+</html>
